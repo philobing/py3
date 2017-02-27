@@ -1,6 +1,6 @@
 # coding:utf-8
 # python3 -- list列表操作（排序 查找 清空 反转 计数）
-list_names = ["he", "li", "liu", "li", "fu", "chen", "liu", "li", "he", "chen",]
+list_names = ["he", "li", "liu", "li", "fu", "chen", "liu", "li", "he", "chen"]
 # 列表的查找index
 print(list_names)
 print(list_names[list_names.index("li")])
